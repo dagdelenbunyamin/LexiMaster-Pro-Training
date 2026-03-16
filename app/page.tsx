@@ -208,8 +208,8 @@ export default function Home() {
               <span className="font-bold text-slate-900">LexiMaster</span>
             </div>
             <div className="space-y-1 mb-6">
-              <p className="text-slate-500 text-sm font-medium">Entwickelt von Bünyamin Dagdelen</p>
-              <p className="text-slate-400 text-xs uppercase tracking-widest">Klasse ITA231 • Fach: Englisch</p>
+              <p className="text-slate-500 text-sm font-bold uppercase tracking-widest">ITA231</p>
+              <p className="text-slate-400 text-xs uppercase tracking-widest">Fach: Englisch</p>
             </div>
             <p className="text-slate-400 text-[10px] uppercase tracking-tighter">© 2026 LexiMaster Professional Training. All rights reserved.</p>
           </div>
